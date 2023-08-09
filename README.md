@@ -49,6 +49,7 @@ Input:
 {
   "uid": 4
 }
+```
 Output:
 
 ```json
@@ -58,3 +59,4 @@ Output:
     "Joined": 2,
     "Interview": 1
 }
+```
