@@ -49,3 +49,12 @@ Input:
 {
   "uid": 4
 }
+Output:
+
+```json
+{
+    "Uid": 4,
+    "Total Candidate": 3,
+    "Joined": 2,
+    "Interview": 1
+}
